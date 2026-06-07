@@ -36,7 +36,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 1. Clona el repositorio desde GitHub:
 
 ```bash
-git clone https://github.com/matiascalzada-dot/Matias_Calzada_sumativa_semana3.git
+git clone https://github.com/matiascalzada-dot/Matias_Calzada_sumativa_semana3
 ```
 
 2. Abre el proyecto en IntelliJ IDEA.
@@ -48,7 +48,7 @@ git clone https://github.com/matiascalzada-dot/Matias_Calzada_sumativa_semana3.g
 
 ---
 
-**Repositorio GitHub:** \https://github.com/matiascalzada-dot/Matias_Calzada_sumativa_semana3
+**Repositorio GitHub:** \https://github.com/matiascalzada-dot/Matias_Calzada_sumativa_semana3/blob/main/README.md
 **Fecha de entrega:** \[07/06/2026]
 
 ---
