@@ -10,14 +10,22 @@ public class Main {
     public static void main(String[] args) {
         try{
             Direccion tarragona = new Direccion("tarragona 123","maipu","metropolitana");
+            Rut rutPablo = new Rut();
+            rutPablo.setNumero("12432765-9");
             Persona pablo = new Persona("pablo", 43,tarragona,rutPablo);
 
             Direccion doggis = new Direccion("doggis 007", "Ñuñoa","metropolitana");
+            Rut rutJose = new Rut();
+            rutJose.setNumero("15546852-7");
             Persona jose = new Persona("Jose",32,doggis, rutJose);
 
             Direccion king = new Direccion("king 321","Florida", "metropolitana");
+            Rut rutCamilo = new Rut();
+            rutCamilo.setNumero("12234456-8");
             Persona camilo = new Persona("Camilo", 23,king, rutCamilo);
 
+            Rut rutMario = new Rut();
+            rutMario.setNumero("10459514-k");
             Persona mario = new Persona("mario", 77,doggis,rutMario);
 
 
